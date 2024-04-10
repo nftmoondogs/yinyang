@@ -23,7 +23,7 @@ const FooterSection = () => {
           Yin, Yang, Yum! 😉🌗💫
           </p>
           <div className="flex justify-center space-x-4 mt-4">
-            <a href="https://twitter.com/Secretsoltoken" target="_blank" rel="noopener noreferrer" className="transition duration-300 ease-in-out hover:scale-125">
+            <a href="https://twitter.com/yinyangsol" target="_blank" rel="noopener noreferrer" className="transition duration-300 ease-in-out hover:scale-125">
               Twitter {/* Ideally, replace <span> with an actual icon */}
             </a>
             <a href="https://t.me/yinyangtribe" target="_blank" rel="noopener noreferrer" className="transition duration-300 ease-in-out hover:scale-125">
